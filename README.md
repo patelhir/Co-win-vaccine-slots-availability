@@ -4,7 +4,7 @@ This is simple python script which help you find slots in your respected area. I
 
 To run this script
 
-Please instal
+Please install
 
 pip install requests
 
